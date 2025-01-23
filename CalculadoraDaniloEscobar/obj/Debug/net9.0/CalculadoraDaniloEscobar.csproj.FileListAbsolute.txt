@@ -1,0 +1,14 @@
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\CalculadoraDaniloEscobar\bin\Debug\net9.0\CalculadoraDaniloEscobar.exe
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\CalculadoraDaniloEscobar\bin\Debug\net9.0\CalculadoraDaniloEscobar.deps.json
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\CalculadoraDaniloEscobar\bin\Debug\net9.0\CalculadoraDaniloEscobar.runtimeconfig.json
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\CalculadoraDaniloEscobar\bin\Debug\net9.0\CalculadoraDaniloEscobar.dll
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\CalculadoraDaniloEscobar\bin\Debug\net9.0\CalculadoraDaniloEscobar.pdb
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\CalculadoraDaniloEscobar\obj\Debug\net9.0\CalculadoraDaniloEscobar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\CalculadoraDaniloEscobar\obj\Debug\net9.0\CalculadoraDaniloEscobar.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\CalculadoraDaniloEscobar\obj\Debug\net9.0\CalculadoraDaniloEscobar.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\CalculadoraDaniloEscobar\obj\Debug\net9.0\CalculadoraDaniloEscobar.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\CalculadoraDaniloEscobar\obj\Debug\net9.0\CalculadoraDaniloEscobar.dll
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\CalculadoraDaniloEscobar\obj\Debug\net9.0\refint\CalculadoraDaniloEscobar.dll
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\CalculadoraDaniloEscobar\obj\Debug\net9.0\CalculadoraDaniloEscobar.pdb
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\CalculadoraDaniloEscobar\obj\Debug\net9.0\CalculadoraDaniloEscobar.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\CalculadoraDaniloEscobar\obj\Debug\net9.0\ref\CalculadoraDaniloEscobar.dll
