@@ -1,0 +1,6 @@
+@ApiDani_HostAddress = http://localhost:5094
+
+GET {{ApiDani_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
