@@ -1,0 +1,14 @@
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\EmpleadosDanilo\bin\Debug\net9.0\EmpleadosDanilo.exe
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\EmpleadosDanilo\bin\Debug\net9.0\EmpleadosDanilo.deps.json
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\EmpleadosDanilo\bin\Debug\net9.0\EmpleadosDanilo.runtimeconfig.json
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\EmpleadosDanilo\bin\Debug\net9.0\EmpleadosDanilo.dll
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\EmpleadosDanilo\bin\Debug\net9.0\EmpleadosDanilo.pdb
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\EmpleadosDanilo\obj\Debug\net9.0\EmpleadosDanilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\EmpleadosDanilo\obj\Debug\net9.0\EmpleadosDanilo.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\EmpleadosDanilo\obj\Debug\net9.0\EmpleadosDanilo.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\EmpleadosDanilo\obj\Debug\net9.0\EmpleadosDanilo.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\EmpleadosDanilo\obj\Debug\net9.0\EmpleadosDanilo.dll
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\EmpleadosDanilo\obj\Debug\net9.0\refint\EmpleadosDanilo.dll
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\EmpleadosDanilo\obj\Debug\net9.0\EmpleadosDanilo.pdb
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\EmpleadosDanilo\obj\Debug\net9.0\EmpleadosDanilo.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Profundizacion NODO 2025\EmpleadosDanilo\obj\Debug\net9.0\ref\EmpleadosDanilo.dll
